@@ -5,13 +5,6 @@
 
 <p align="center">Repositório de Estudos e desafios da trilha node </p>
 
-### Branchs
-
-   * [Branch #1]()
-   * [Branch #2]()
-   * [Branch #3]()
-   * [Branch #4]()
-   * [Branch #5]()
 
 
 ### 🛠 Tecnologias
